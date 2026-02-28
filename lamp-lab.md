@@ -36,7 +36,7 @@ Estas herramientas trabajan juntas para crear aplicaciones web dinámicas.
 ## 4. Evidencias
 
 ### Página localhost
-![localhost](imagenes/localhost.png)
+![localhost](imagenes/localhost.png.png)
 
 ### PHP funcionando
 ![phpinfo](imagenes/phpinfo.png.png)
