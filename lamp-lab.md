@@ -36,16 +36,17 @@ Estas herramientas trabajan juntas para crear aplicaciones web dinámicas.
 ## 4. Evidencias
 
 ### Página localhost
-(Insertar aquí captura de http://localhost:8080/Zora.html)
+![localhost](imagenes/localhost.png)
 
 ### PHP funcionando
-(Insertar aquí captura de http://localhost:8080/info.php)
+![phpinfo](imagenes/phpinfo.png.png)
 
 ### phpMyAdmin
-(Insertar aquí captura de http://localhost:8080/phpmyadmin)
+![phpMyAdmin](imagenes/phpmyadmin.png.png)
 
 ---
 
 ## 5. Archivo HTML
 
 Se adjunta el archivo HTML desarrollado en clase para la actividad de Integración Tecnológica.
+[Descargar HTML](Zora.html)
